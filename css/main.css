@@ -390,7 +390,6 @@ header {
     font-weight: 600;
     font-size: 13px;
     color: #858585b0;
-    cursor: pointer;
 }
 
 .fl {
@@ -399,6 +398,8 @@ header {
     font-weight: 700;
     font-size: 12px;
     margin-right: 5px;
+    margin-top: 10px;
+    cursor: pointer;
 }
 
 
