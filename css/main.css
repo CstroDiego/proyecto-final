@@ -276,7 +276,13 @@ header {
     margin-top: 50px;
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1366px) {
+    .right-setion {
+        right: 180px;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
     .right-setion {
         right: 70px;
     }
